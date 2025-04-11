@@ -14,7 +14,8 @@ A Streamlit dashboard for exploring and analyzing Amazon's Top-100 Trending Book
 
 ## Screenshots
 
-(Screenshots will be added here)
+![image](https://github.com/user-attachments/assets/568b7249-72ed-49ad-86c4-3d4c86226b3f)
+
 
 ## Installation
 
