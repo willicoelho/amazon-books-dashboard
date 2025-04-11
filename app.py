@@ -44,7 +44,9 @@ df_books = df_books[df_books["rating"] >= rating_filter]
 
 # Display filtered data
 st.write(f"### {len(df_books)} books found")
-st.dataframe(df_books)
+
+#Hide unnamed column
+st.dataframe(df_books, hide_index=True)
 
 # Create visualizations
 # Books per year
