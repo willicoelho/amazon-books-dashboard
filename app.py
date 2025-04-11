@@ -11,6 +11,9 @@ df_reviews = pd.read_csv("datasets/customer reviews.csv")
 df_top100_books = pd.read_csv("datasets/Top-100 Trending Books.csv")
 df_books = df_top100_books
 
+# Fill missing ratings with 0
+df_books['rating'] = df_books['rating'].fillna(0)
+
 # Sidebar filters
 st.sidebar.header("Filters")
 
