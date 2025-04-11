@@ -1,7 +1,8 @@
 # Amazon Books Dashboard
 
-A Streamlit dashboard for exploring and analyzing Amazon's Top-100 Trending Books dataset. This interactive application allows users to filter books by various criteria and visualize trends in book publishing, pricing, and ratings.
-
+A Streamlit dashboard for exploring and analyzing Amazon's Top-100 Trending Books dataset. This interactive application allows users to filter books by various criteria and visualize trends in book publishing, pricing, and ratings.\
+\
+You can see it on: https://amazon-books-dashboard.streamlit.app
 ## Features
 
 - **Interactive Filters**: Filter books by title, genre, price range, publication year, and rating
